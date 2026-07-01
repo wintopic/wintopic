@@ -6,15 +6,11 @@
 
 [![动态标语](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00A6A6&center=true&vCenter=true&width=760&lines=AI+%2B+%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8E%A2%E7%B4%A2%E8%80%85;%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%80%85%E5%92%8C%E5%88%9B%E4%BD%9C%E8%80%85;%E6%8A%8A%E7%81%B5%E6%84%9F%E5%81%9A%E6%88%90%E7%9C%9F%E6%AD%A3%E8%83%BD%E7%94%A8%E7%9A%84%E9%A1%B9%E7%9B%AE)](https://git.io/typing-svg)
 
-<a href="https://github.com/wintopic">
-  <img src="https://komarev.com/ghpvc/?username=wintopic&style=for-the-badge&label=%E8%AE%BF%E9%97%AE&color=00a6a6" alt="主页访问量" />
-</a>
-<a href="https://github.com/wintopic?tab=followers">
-  <img src="https://img.shields.io/github/followers/wintopic?style=for-the-badge&logo=github&label=%E5%85%B3%E6%B3%A8&color=4E4376" alt="关注者" />
-</a>
-<a href="https://github.com/wintopic?tab=repositories">
-  <img src="https://img.shields.io/github/stars/wintopic?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=%E6%98%9F%E6%A0%87&color=2B5876" alt="星标" />
-</a>
+<a href="https://github.com/wintopic">主页</a>
+·
+<a href="https://github.com/wintopic?tab=repositories">项目</a>
+·
+<a href="https://github.com/wintopic?tab=followers">关注者</a>
 
 </div>
 
@@ -37,16 +33,35 @@
 
 ## GitHub 数据概览
 
-<div align="center">
+| 指标 | 数值 |
+| --- | ---: |
+| 公开仓库 | 57 |
+| 原创仓库 | 35 |
+| 关注者 | 7 |
+| 累计星标 | 2 |
+| 累计 Fork | 3 |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wintopic&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&locale=cn" alt="wintopic 的 GitHub 数据" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintopic&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&locale=cn" alt="wintopic 的常用语言" />
+## 常用语言
 
-<br />
+| 语言 | 仓库数 |
+| --- | ---: |
+| JavaScript | 7 |
+| CSS | 4 |
+| Python | 4 |
+| HTML | 3 |
+| TypeScript | 3 |
+| Go | 1 |
+| Java | 1 |
 
-<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=wintopic&theme=tokyo-night&hide_border=true&area=true&custom_title=%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8" alt="wintopic 的贡献活动图" />
+## 近期项目
 
-</div>
+| 项目 | 简介 | 技术 |
+| --- | --- | --- |
+| [Lightwell](https://github.com/wintopic/Lightwell) | 轻量 Android 应用面板，灵感来自 Lightwell / 隙光 | Java |
+| [Codex-Desktop-Linux](https://github.com/wintopic/Codex-Desktop-Linux) | Codex Desktop Linux Debian 包自动化构建 | 自动化 |
+| [ClearMint](https://github.com/wintopic/ClearMint) | 保守、干净的 GTK 桌面清理工具 | Python |
+| [Android-Studio-ZH](https://github.com/wintopic/Android-Studio-ZH) | Android Studio 简体中文本地化辅助工具 | Shell |
+| [gnome-topline](https://github.com/wintopic/gnome-topline) | GNOME 顶栏模块化系统状态栏 | JavaScript |
 
 ## 当前方向
 
