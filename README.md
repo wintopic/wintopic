@@ -6,9 +6,15 @@
 
 [![动态标语](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00A6A6&center=true&vCenter=true&width=760&lines=AI+%2B+%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8E%A2%E7%B4%A2%E8%80%85;%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%80%85%E5%92%8C%E5%88%9B%E4%BD%9C%E8%80%85;%E6%8A%8A%E7%81%B5%E6%84%9F%E5%81%9A%E6%88%90%E7%9C%9F%E6%AD%A3%E8%83%BD%E7%94%A8%E7%9A%84%E9%A1%B9%E7%9B%AE)](https://git.io/typing-svg)
 
-[![主页访问量](https://komarev.com/ghpvc/?username=wintopic&style=flat-square&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=00a6a6)](https://github.com/wintopic)
-[![关注者](https://img.shields.io/github/followers/wintopic?style=flat-square&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=4E4376)](https://github.com/wintopic?tab=followers)
-[![星标](https://img.shields.io/github/stars/wintopic?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=%E6%98%9F%E6%A0%87&color=2B5876)](https://github.com/wintopic?tab=repositories)
+<a href="https://github.com/wintopic">
+  <img src="https://komarev.com/ghpvc/?username=wintopic&style=for-the-badge&label=%E8%AE%BF%E9%97%AE&color=00a6a6" alt="主页访问量" />
+</a>
+<a href="https://github.com/wintopic?tab=followers">
+  <img src="https://img.shields.io/github/followers/wintopic?style=for-the-badge&logo=github&label=%E5%85%B3%E6%B3%A8&color=4E4376" alt="关注者" />
+</a>
+<a href="https://github.com/wintopic?tab=repositories">
+  <img src="https://img.shields.io/github/stars/wintopic?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=%E6%98%9F%E6%A0%87&color=2B5876" alt="星标" />
+</a>
 
 </div>
 
