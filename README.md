@@ -1,206 +1,156 @@
 <div align="center">
 
 [简体中文](./README.md) · [English](./README.en.md)
+<!-- sources: thmsgbrt, sw-yx -->
+<p><a href="https://github.com/thmsgbrt"><img width="49%" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="animation from thmsgbrt" /></a> <a href="https://github.com/sw-yx"><img width="49%" src="https://raw.githubusercontent.com/sw-yx/sw-yx/master/generated/overview.svg" alt="animation from sw-yx" /></a></p>
 
-<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="open source animation" />
+<!-- sources: gautamkrishnar, guilyx -->
+<p><a href="https://github.com/gautamkrishnar"><img width="49%" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="animation from gautamkrishnar" /></a> <a href="https://github.com/guilyx"><img width="49%" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" alt="animation from guilyx" /></a></p>
 
-<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="open source animation" />
+<!-- sources: tw93, blackcater -->
+<p><a href="https://github.com/tw93"><img width="49%" src="https://x.tw93.fun/images/hi.gif" alt="animation from tw93" /></a> <a href="https://github.com/blackcater"><img width="49%" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" alt="animation from blackcater" /></a></p>
 
-<img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="open source animation" />
+<!-- sources: Spiderpig86, gargakshit -->
+<p><a href="https://github.com/Spiderpig86"><img width="49%" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="animation from Spiderpig86" /></a> <a href="https://github.com/gargakshit"><img width="49%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="animation from gargakshit" /></a></p>
 
-<img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="open source animation" />
+<!-- sources: RaoHai, codestackr -->
+<p><a href="https://github.com/RaoHai"><img width="49%" src="https://github.githubassets.com/images/mona-whisper.gif" alt="animation from RaoHai" /></a> <a href="https://github.com/codestackr"><img width="49%" src="https://raw.githubusercontent.com/codestackr/codestackr/master/img/globe-light.svg" alt="animation from codestackr" /></a></p>
 
-<img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" alt="open source animation" />
+<!-- sources: itgoyo, rossjrw -->
+<p><a href="https://github.com/itgoyo"><img width="49%" src="https://231590.xyz/api/githubfollower.svg" alt="animation from itgoyo" /></a> <a href="https://github.com/rossjrw"><img width="49%" src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4605.svg" alt="animation from rossjrw" /></a></p>
 
-<img width="100%" src="./dist/github-contribution-grid-snake-dark.svg" alt="open source animation" />
+<!-- sources: HFO4, marcizhu -->
+<p><a href="https://github.com/HFO4"><img width="49%" src="https://raw.githubusercontent.com/HFO4/HFO4/master/Microsoft.svg" alt="animation from HFO4" /></a> <a href="https://github.com/marcizhu"><img width="49%" src="https://raw.githubusercontent.com/marcizhu/marcizhu/master/img/black/rook.svg" alt="animation from marcizhu" /></a></p>
 
-<img width="100%" src="./dist/github-contribution-grid-snake.svg" alt="open source animation" />
+<!-- sources: Thaiane, anmol098 -->
+<p><a href="https://github.com/Thaiane"><img width="49%" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="animation from Thaiane" /></a> <a href="https://github.com/anmol098"><img width="49%" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" alt="animation from anmol098" /></a></p>
 
-<img width="100%" src="./dist/ocean.gif" alt="open source animation" />
+<!-- sources: martonlederer, anuraghazra -->
+<p><a href="https://github.com/martonlederer"><img width="49%" src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="animation from martonlederer" /></a> <a href="https://github.com/anuraghazra"><img width="49%" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" alt="animation from anuraghazra" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=160&amp;color=0:020617,35:0F172A,70:155E75,100:7C3AED&amp;text=COSMIC%20SIGNAL&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=LUNAR%20SIGNAL&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 1" />
+<!-- sources: 8bithemant, andyruwruw -->
+<p><a href="https://github.com/8bithemant"><img width="49%" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="animation from 8bithemant" /></a> <a href="https://github.com/andyruwruw"><img width="49%" src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" alt="animation from andyruwruw" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=178&amp;color=0:030712,40:1E1B4B,75:0891B2,100:22D3EE&amp;text=DEEP%20SPACE&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=PLASMA%20FIELD&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 2" />
+<!-- sources: MacroPower, zumrudu-anka -->
+<p><a href="https://github.com/MacroPower"><img width="49%" src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="animation from MacroPower" /></a> <a href="https://github.com/zumrudu-anka"><img width="49%" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/stackoverflow.svg" alt="animation from zumrudu-anka" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=196&amp;color=0:050816,35:312E81,70:06B6D4,100:A855F7&amp;text=ORBITAL%20MIND&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=NOVA%20RISE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 3" />
+<!-- sources: iampavangandhi, rahul-jha98 -->
+<p><a href="https://github.com/iampavangandhi"><img width="49%" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" alt="animation from iampavangandhi" /></a> <a href="https://github.com/rahul-jha98"><img width="49%" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="animation from rahul-jha98" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;height=214&amp;color=0:020617,42:0E7490,72:0F766E,100:14B8A6&amp;text=QUANTUM%20FLOW&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=HYPER%20LOOP&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 4" />
+<!-- sources: Raymo111, MartinHeinz -->
+<p><a href="https://github.com/Raymo111"><img width="49%" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="animation from Raymo111" /></a> <a href="https://github.com/MartinHeinz"><img width="49%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="animation from MartinHeinz" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&amp;height=232&amp;color=0:09090B,32:581C87,68:1D4ED8,100:06B6D4&amp;text=SYSTEM%20ONLINE&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=STAR%20MAP&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 5" />
+<!-- sources: adamalston, sciencepal -->
+<p><a href="https://github.com/adamalston"><img width="49%" src="https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif" alt="animation from adamalston" /></a> <a href="https://github.com/sciencepal"><img width="49%" src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" alt="animation from sciencepal" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;height=160&amp;color=0:000000,30:172554,65:7C2D12,100:F97316&amp;text=NEBULA%20CORE&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=DARK%20MATTER&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 6" />
+<!-- sources: apoorvtyagi, cxyfreedom -->
+<p><a href="https://github.com/apoorvtyagi"><img width="49%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="animation from apoorvtyagi" /></a> <a href="https://github.com/cxyfreedom"><img width="49%" src="https://raw.githubusercontent.com/cxyfreedom/cxyfreedom/master/profile/stats.svg" alt="animation from cxyfreedom" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=178&amp;color=0:020617,45:164E63,76:4338CA,100:EC4899&amp;text=STARFORGE&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=AURORA%20CODE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 7" />
+<!-- sources: AbhishekMaira10, claytonjhamilton -->
+<p><a href="https://github.com/AbhishekMaira10"><img width="49%" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="animation from AbhishekMaira10" /></a> <a href="https://github.com/claytonjhamilton"><img width="49%" src="https://raw.githubusercontent.com/claytonjhamilton/claytonjhamilton/main/images/waving_hand.gif" alt="animation from claytonjhamilton" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&amp;height=196&amp;color=0:111827,35:0F766E,65:2563EB,100:9333EA&amp;text=CYBER%20ORBIT&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=WARP%20GATE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 8" />
+<!-- sources: trinib, holic-x -->
+<p><a href="https://github.com/trinib"><img width="49%" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" alt="animation from trinib" /></a> <a href="https://github.com/holic-x"><img width="49%" src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" alt="animation from holic-x" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=214&amp;color=0:020617,35:0F172A,70:155E75,100:7C3AED&amp;text=ASTRAL%20ENGINE&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=COMET%20TRAIL&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 9" />
+<!-- sources: Magrelaio, garimasingh128 -->
+<p><a href="https://github.com/Magrelaio"><img width="49%" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="animation from Magrelaio" /></a> <a href="https://github.com/garimasingh128"><img width="49%" src="https://raw.githubusercontent.com/garimasingh128/garimasingh128/master/stats.gif" alt="animation from garimasingh128" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=232&amp;color=0:030712,40:1E1B4B,75:0891B2,100:22D3EE&amp;text=LIGHT%20SPEED&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=SPACE%20OS&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 10" />
+<!-- sources: lizheming, sakshamtaneja21 -->
+<p><a href="https://github.com/lizheming"><img width="49%" src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="animation from lizheming" /></a> <a href="https://github.com/sakshamtaneja21"><img width="49%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" alt="animation from sakshamtaneja21" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=160&amp;color=0:050816,35:312E81,70:06B6D4,100:A855F7&amp;text=VOID%20WALKER&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=ROCKET%20FLOW&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 11" />
+<!-- sources: theabbie, keshavsingh4522 -->
+<p><a href="https://github.com/theabbie"><img width="49%" src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="animation from theabbie" /></a> <a href="https://github.com/keshavsingh4522"><img width="49%" src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Assets/Monkey_Kid_Coding.gif" alt="animation from keshavsingh4522" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;height=178&amp;color=0:020617,42:0E7490,72:0F766E,100:14B8A6&amp;text=GALAXY%20MODE&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=COSMOS%20LAB&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 12" />
+<!-- sources: jh3y, WaylonWalker -->
+<p><a href="https://github.com/jh3y"><img width="49%" src="https://raw.githubusercontent.com/jh3y/jh3y/master/assets/gem.svg" alt="animation from jh3y" /></a> <a href="https://github.com/WaylonWalker"><img width="49%" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/follower.svg" alt="animation from WaylonWalker" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&amp;height=196&amp;color=0:09090B,32:581C87,68:1D4ED8,100:06B6D4&amp;text=DATA%20STORM&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=ORBITAL%20AI&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 13" />
+<!-- sources: MarikIshtar007, ashleymavericks -->
+<p><a href="https://github.com/MarikIshtar007"><img width="49%" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/java.svg" alt="animation from MarikIshtar007" /></a> <a href="https://github.com/ashleymavericks"><img width="49%" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" alt="animation from ashleymavericks" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;height=214&amp;color=0:000000,30:172554,65:7C2D12,100:F97316&amp;text=NEON%20VECTOR&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=NEURAL%20SKY&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 14" />
+<!-- sources: jaywcjlove, halfrost -->
+<p><a href="https://github.com/jaywcjlove"><img width="49%" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/weibo.svg?sanitize=true" alt="animation from jaywcjlove" /></a> <a href="https://github.com/halfrost"><img width="49%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/timeline-drop/output/dropped-timeline-halfrost.gif" alt="animation from halfrost" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=232&amp;color=0:020617,45:164E63,76:4338CA,100:EC4899&amp;text=ION%20DRIVE&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=SATELLITE%20MODE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 15" />
+<!-- sources: Terabyte17, Defcon27 -->
+<p><a href="https://github.com/Terabyte17"><img width="49%" src="https://raw.githubusercontent.com/Terabyte17/Terabyte17/master/social/yashs.gif" alt="animation from Terabyte17" /></a> <a href="https://github.com/Defcon27"><img width="49%" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" alt="animation from Defcon27" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&amp;height=160&amp;color=0:111827,35:0F766E,65:2563EB,100:9333EA&amp;text=ZERO%20GRAVITY&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=GRAVITY%20WELL&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 16" />
+<!-- sources: onimur, brunotacca -->
+<p><a href="https://github.com/onimur"><img width="49%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="animation from onimur" /></a> <a href="https://github.com/brunotacca"><img width="49%" src="https://raw.githubusercontent.com/brunotacca/brunotacca/main/images/svg/header_en.svg" alt="animation from brunotacca" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=178&amp;color=0:020617,35:0F172A,70:155E75,100:7C3AED&amp;text=SOLAR%20CODE&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=EVENT%20HORIZON&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 17" />
+<!-- sources: matyo91, CyrisXD -->
+<p><a href="https://github.com/matyo91"><img width="49%" src="https://raw.githubusercontent.com/matyo91/matyo91/main/assets/github.gif" alt="animation from matyo91" /></a> <a href="https://github.com/CyrisXD"><img width="49%" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="animation from CyrisXD" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=196&amp;color=0:030712,40:1E1B4B,75:0891B2,100:22D3EE&amp;text=LUNAR%20SIGNAL&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=METEOR%20WAVE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 18" />
+<!-- sources: mmphego, MasonSlover -->
+<p><a href="https://github.com/mmphego"><img width="49%" src="https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif" alt="animation from mmphego" /></a> <a href="https://github.com/MasonSlover"><img width="49%" src="https://raw.githubusercontent.com/MasonSlover/MasonSlover/master/output.gif" alt="animation from MasonSlover" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=214&amp;color=0:050816,35:312E81,70:06B6D4,100:A855F7&amp;text=PLASMA%20FIELD&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=FUTURE%20STACK&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 19" />
+<!-- sources: innng, edisonlee55 -->
+<p><a href="https://github.com/innng"><img width="49%" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="animation from innng" /></a> <a href="https://github.com/edisonlee55"><img width="49%" src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="animation from edisonlee55" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;height=232&amp;color=0:020617,42:0E7490,72:0F766E,100:14B8A6&amp;text=NOVA%20RISE&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=SIGNAL%20BOOST&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 20" />
+<!-- sources: Xx-Ashutosh-xX, PrincessAkira -->
+<p><a href="https://github.com/Xx-Ashutosh-xX"><img width="49%" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/208593.gif" alt="animation from Xx-Ashutosh-xX" /></a> <a href="https://github.com/PrincessAkira"><img width="49%" src="https://i.imgur.com/jx17oHT.gif" alt="animation from PrincessAkira" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&amp;height=160&amp;color=0:09090B,32:581C87,68:1D4ED8,100:06B6D4&amp;text=HYPER%20LOOP&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=PHOTON%20PATH&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 21" />
+<!-- sources: PluckyPrecious, DennisHartrampf -->
+<p><a href="https://github.com/PluckyPrecious"><img width="49%" src="https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif" alt="animation from PluckyPrecious" /></a> <a href="https://github.com/DennisHartrampf"><img width="49%" src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="animation from DennisHartrampf" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;height=178&amp;color=0:000000,30:172554,65:7C2D12,100:F97316&amp;text=STAR%20MAP&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=STELLAR%20NODE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 22" />
+<!-- sources: MrStanDu33, orhun -->
+<p><a href="https://github.com/MrStanDu33"><img width="49%" src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg" alt="animation from MrStanDu33" /></a> <a href="https://github.com/orhun"><img width="49%" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif" alt="animation from orhun" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=196&amp;color=0:020617,45:164E63,76:4338CA,100:EC4899&amp;text=DARK%20MATTER&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=ASTRO%20PULSE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 23" />
+<!-- sources: Zheeeng, ari-hacks -->
+<p><a href="https://github.com/Zheeeng"><img width="49%" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" alt="animation from Zheeeng" /></a> <a href="https://github.com/ari-hacks"><img width="49%" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" alt="animation from ari-hacks" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&amp;height=214&amp;color=0:111827,35:0F766E,65:2563EB,100:9333EA&amp;text=AURORA%20CODE&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=LASER%20GRID&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 24" />
+<!-- sources: Prince-Shivaram, Shanu1515 -->
+<p><a href="https://github.com/Prince-Shivaram"><img width="49%" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" alt="animation from Prince-Shivaram" /></a> <a href="https://github.com/Shanu1515"><img width="49%" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" alt="animation from Shanu1515" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=232&amp;color=0:020617,35:0F172A,70:155E75,100:7C3AED&amp;text=WARP%20GATE&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=MOONLIGHT%20CODE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 25" />
+<!-- sources: demartini, okankocyigit -->
+<p><a href="https://github.com/demartini"><img width="49%" src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif" alt="animation from demartini" /></a> <a href="https://github.com/okankocyigit"><img width="49%" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="animation from okankocyigit" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=160&amp;color=0:030712,40:1E1B4B,75:0891B2,100:22D3EE&amp;text=COMET%20TRAIL&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=TECHNOVA&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 26" />
+<!-- sources: RaghavK16, xrkffgg -->
+<p><a href="https://github.com/RaghavK16"><img width="49%" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/octo.gif" alt="animation from RaghavK16" /></a> <a href="https://github.com/xrkffgg"><img width="49%" src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" alt="animation from xrkffgg" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=178&amp;color=0:050816,35:312E81,70:06B6D4,100:A855F7&amp;text=SPACE%20OS&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=NIGHT%20CIRCUIT&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 27" />
+<!-- sources: KevCui, muskanrani -->
+<p><a href="https://github.com/KevCui"><img width="49%" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" alt="animation from KevCui" /></a> <a href="https://github.com/muskanrani"><img width="49%" src="https://rishavanand.github.io/static/images/greetings.gif" alt="animation from muskanrani" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;height=196&amp;color=0:020617,42:0E7490,72:0F766E,100:14B8A6&amp;text=ROCKET%20FLOW&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=GALACTIC%20UI&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 28" />
+<!-- sources: KelviNosse, SP-XD -->
+<p><a href="https://github.com/KelviNosse"><img width="49%" src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="animation from KelviNosse" /></a> <a href="https://github.com/SP-XD"><img width="49%" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif?raw=true" alt="animation from SP-XD" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&amp;height=214&amp;color=0:09090B,32:581C87,68:1D4ED8,100:06B6D4&amp;text=COSMOS%20LAB&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=ECHO%20STATION&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 29" />
+<!-- sources: kmoroz, thewhiteh4t -->
+<p><a href="https://github.com/kmoroz"><img width="49%" src="https://raw.githubusercontent.com/kmoroz/kmoroz/master/readme.gif" alt="animation from kmoroz" /></a> <a href="https://github.com/thewhiteh4t"><img width="49%" src="https://res.cloudinary.com/dg5ijxsap/image/upload/v1780129216/gemini-svg_3_xsramr.svg" alt="animation from thewhiteh4t" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;height=232&amp;color=0:000000,30:172554,65:7C2D12,100:F97316&amp;text=ORBITAL%20AI&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=SPACETIME&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 30" />
+<!-- sources: aemmadi, alwinw -->
+<p><a href="https://github.com/aemmadi"><img width="49%" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="animation from aemmadi" /></a> <a href="https://github.com/alwinw"><img width="49%" src="https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg" alt="animation from alwinw" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=160&amp;color=0:020617,45:164E63,76:4338CA,100:EC4899&amp;text=NEURAL%20SKY&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=NOVA%20TERMINAL&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 31" />
+<!-- sources: ileriayo, samujjwaal -->
+<p><a href="https://github.com/ileriayo"><img width="49%" src="https://raw.githubusercontent.com/Ileriayo/ileriayo/master/images/header.gif" alt="animation from ileriayo" /></a> <a href="https://github.com/samujjwaal"><img width="49%" src="http://hits.dwyl.com/samujjwaal/samujjwaal.svg" alt="animation from samujjwaal" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&amp;height=178&amp;color=0:111827,35:0F766E,65:2563EB,100:9333EA&amp;text=SATELLITE%20MODE&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=CYBER%20SKY&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 32" />
+<!-- sources: terrytangyuan, hussainweb -->
+<p><a href="https://github.com/terrytangyuan"><img width="49%" src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/main/imgs/cv.svg" alt="animation from terrytangyuan" /></a> <a href="https://github.com/hussainweb"><img width="49%" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/images/banner.svg" alt="animation from hussainweb" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=196&amp;color=0:020617,35:0F172A,70:155E75,100:7C3AED&amp;text=GRAVITY%20WELL&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=STARLIGHT&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 33" />
+<!-- sources: Thomas-George-T, dereknguyen269 -->
+<p><a href="https://github.com/Thomas-George-T"><img width="49%" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" alt="animation from Thomas-George-T" /></a> <a href="https://github.com/dereknguyen269"><img width="49%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/assets/builder-console.svg" alt="animation from dereknguyen269" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=214&amp;color=0:030712,40:1E1B4B,75:0891B2,100:22D3EE&amp;text=EVENT%20HORIZON&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=COSMIC%20SIGNAL&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 34" />
+<!-- sources: BrunnerLivio, fnky -->
+<p><a href="https://github.com/BrunnerLivio"><img width="49%" src="https://raw.githubusercontent.com/BrunnerLivio/BrunnerLivio/master/images/globe.gif" alt="animation from BrunnerLivio" /></a> <a href="https://github.com/fnky"><img width="49%" src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif" alt="animation from fnky" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=232&amp;color=0:050816,35:312E81,70:06B6D4,100:A855F7&amp;text=METEOR%20WAVE&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=DEEP%20SPACE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 35" />
+<!-- sources: theFr1nge, eryajf -->
+<p><a href="https://github.com/theFr1nge"><img width="49%" src="https://raw.githubusercontent.com/theFr1nge/theFr1nge/main/imgs/hello_there.gif" alt="animation from theFr1nge" /></a> <a href="https://github.com/eryajf"><img width="49%" src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" alt="animation from eryajf" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;height=160&amp;color=0:020617,42:0E7490,72:0F766E,100:14B8A6&amp;text=FUTURE%20STACK&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=ORBITAL%20MIND&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 36" />
+<!-- sources: coderjojo, Charles7c -->
+<p><a href="https://github.com/coderjojo"><img width="49%" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" alt="animation from coderjojo" /></a> <a href="https://github.com/Charles7c"><img width="49%" src="https://raw.githubusercontent.com/Charles7c/Charles7c/main/img/header.svg" alt="animation from Charles7c" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&amp;height=178&amp;color=0:09090B,32:581C87,68:1D4ED8,100:06B6D4&amp;text=SIGNAL%20BOOST&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=QUANTUM%20FLOW&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 37" />
+<!-- sources: DanceLiu, erbanku -->
+<p><a href="https://github.com/DanceLiu"><img width="49%" src="https://emojis.slackmojis.com/emojis/images/1492722354/2080/love.gif?1492722354" alt="animation from DanceLiu" /></a> <a href="https://github.com/erbanku"><img width="49%" src="https://raw.githubusercontent.com/erbanku/erbanku/main/profile-3d-contrib/profile-green.svg" alt="animation from erbanku" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;height=196&amp;color=0:000000,30:172554,65:7C2D12,100:F97316&amp;text=PHOTON%20PATH&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=SYSTEM%20ONLINE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 38" />
+<!-- sources: hoochanlon, hugh-zhan9 -->
+<p><a href="https://github.com/hoochanlon"><img width="49%" src="https://raw.githubusercontent.com/hoochanlon/hoochanlon/master/pictures/sakura.gif" alt="animation from hoochanlon" /></a> <a href="https://github.com/hugh-zhan9"><img width="49%" src="https://v2.jinrishici.com/one.svg" alt="animation from hugh-zhan9" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=214&amp;color=0:020617,45:164E63,76:4338CA,100:EC4899&amp;text=STELLAR%20NODE&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=NEBULA%20CORE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 39" />
+<!-- sources: JarryShaw, JesseAtSZ -->
+<p><a href="https://github.com/JarryShaw"><img width="49%" src="https://raw.githubusercontent.com/JarryShaw/JarryShaw/master/img/email.svg?raw=true" alt="animation from JarryShaw" /></a> <a href="https://github.com/JesseAtSZ"><img width="49%" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/main/img/site/code.gif?raw=true" alt="animation from JesseAtSZ" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&amp;height=232&amp;color=0:111827,35:0F766E,65:2563EB,100:9333EA&amp;text=ASTRO%20PULSE&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=STARFORGE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 40" />
+<!-- sources: JS-banana, LayorX -->
+<p><a href="https://github.com/JS-banana"><img width="49%" src="https://raw.githubusercontent.com/JS-banana/JS-banana/master/profile/top-langs.svg" alt="animation from JS-banana" /></a> <a href="https://github.com/LayorX"><img width="49%" src="https://raw.githubusercontent.com/LayorX/LayorX/output/github-contribution-grid-snake.svg" alt="animation from LayorX" /></a></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=160&amp;color=0:020617,35:0F172A,70:155E75,100:7C3AED&amp;text=LASER%20GRID&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=CYBER%20ORBIT&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 41" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=178&amp;color=0:030712,40:1E1B4B,75:0891B2,100:22D3EE&amp;text=MOONLIGHT%20CODE&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=ASTRAL%20ENGINE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 42" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&amp;height=196&amp;color=0:050816,35:312E81,70:06B6D4,100:A855F7&amp;text=TECHNOVA&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=LIGHT%20SPEED&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 43" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&amp;height=214&amp;color=0:020617,42:0E7490,72:0F766E,100:14B8A6&amp;text=NIGHT%20CIRCUIT&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=VOID%20WALKER&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 44" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&amp;height=232&amp;color=0:09090B,32:581C87,68:1D4ED8,100:06B6D4&amp;text=GALACTIC%20UI&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=GALAXY%20MODE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 45" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;height=160&amp;color=0:000000,30:172554,65:7C2D12,100:F97316&amp;text=ECHO%20STATION&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=DATA%20STORM&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 46" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=178&amp;color=0:020617,45:164E63,76:4338CA,100:EC4899&amp;text=SPACETIME&amp;fontColor=E0F2FE&amp;fontSize=44&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=NEON%20VECTOR&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=blink" alt="space animation 47" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&amp;height=196&amp;color=0:111827,35:0F766E,65:2563EB,100:9333EA&amp;text=NOVA%20TERMINAL&amp;fontColor=E0F2FE&amp;fontSize=49&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=ION%20DRIVE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=scaleIn" alt="space animation 48" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;height=214&amp;color=0:020617,35:0F172A,70:155E75,100:7C3AED&amp;text=CYBER%20SKY&amp;fontColor=E0F2FE&amp;fontSize=34&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=ZERO%20GRAVITY&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=twinkling" alt="space animation 49" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=232&amp;color=0:030712,40:1E1B4B,75:0891B2,100:22D3EE&amp;text=STARLIGHT&amp;fontColor=E0F2FE&amp;fontSize=39&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=SOLAR%20CODE&amp;descSize=14&amp;descAlign=50&amp;descAlignY=68&amp;animation=fadeIn" alt="space animation 50" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=SYSTEM%20ONLINE%3BLAUNCH%20SEQUENCE%3BWELCOME%20TO%20ORBIT" alt="typing animation 1" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Audiowide&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=AI%20SIGNAL%20LOCKED%3BAUTOMATION%20RUNNING%3BIDEAS%20IN%20MOTION" alt="typing animation 2" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Rajdhani&amp;weight=800&amp;size=30&amp;duration=3040&amp;pause=450&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=DEEP%20SPACE%20MODE%3BNEON%20GRID%20ACTIVE%3BBUILDING%20THE%20FUTURE" alt="typing animation 3" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=800&amp;size=30&amp;duration=3260&amp;pause=450&amp;color=F472B6&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=ORBITAL%20INTERFACE%3BQUANTUM%20SPARK%3BCREATIVE%20CODE%20STREAM" alt="typing animation 4" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&amp;weight=800&amp;size=30&amp;duration=3480&amp;pause=450&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=COSMIC%20FLOW%3BLIGHT%20SPEED%20THINKING%3BTOOLS%20IN%20AUTOPILOT" alt="typing animation 5" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Space%20Mono&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=FBBF24&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=CYBERSPACE%20OPEN%3BSTAR%20MAP%20READY%3BSIGNAL%20NEVER%20SLEEPS" alt="typing animation 6" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Bungee&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=ASTRAL%20ENGINE%3BPRODUCT%20EXPERIENCE%3BCODE%20WITH%20MOMENTUM" alt="typing animation 7" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Monoton&amp;weight=800&amp;size=30&amp;duration=3040&amp;pause=450&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=VOID%20TO%20VECTOR%3BIDEA%20TO%20INTERFACE%3BSTATIC%20TO%20MOTION" alt="typing animation 8" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=30&amp;duration=3260&amp;pause=450&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=PLASMA%20UI%3BAUTOMATION%20CORE%3BFUTURE%20LOADING" alt="typing animation 9" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Audiowide&amp;weight=800&amp;size=30&amp;duration=3480&amp;pause=450&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=NEBULA%20TERMINAL%3BSYNTHETIC%20FLOW%3BBUILD%20FAST" alt="typing animation 10" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Rajdhani&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=GALAXY%20STACK%3BORBITAL%20BUILD%3BSHIP%20THE%20SIGNAL" alt="typing animation 11" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=F472B6&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=AURORA%20SYSTEM%3BLIGHT%20TRAIL%3BCODE%20IN%20MOTION" alt="typing animation 12" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&amp;weight=800&amp;size=30&amp;duration=3040&amp;pause=450&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=ROCKET%20MODE%3BHIGH%20ENERGY%3BNO%20STATIC%20FRAMES" alt="typing animation 13" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Space%20Mono&amp;weight=800&amp;size=30&amp;duration=3260&amp;pause=450&amp;color=FBBF24&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=PHOTON%20RAIL%3BTECH%20AESTHETIC%3BLIVE%20INTERFACE" alt="typing animation 14" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Bungee&amp;weight=800&amp;size=30&amp;duration=3480&amp;pause=450&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=NOVA%20SPARK%3BAUTOMATED%20PATH%3BCREATIVE%20LOOP" alt="typing animation 15" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Monoton&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=STARFIELD%20ACTIVE%3BHYPERFOCUS%3BBUILDING%20NOW" alt="typing animation 16" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=ION%20SIGNAL%3BDIGITAL%20ORBIT%3BFUTURE%20TOOLS" alt="typing animation 17" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Audiowide&amp;weight=800&amp;size=30&amp;duration=3040&amp;pause=450&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=LUNAR%20LAB%3BNEURAL%20RHYTHM%3BIDEAS%20IGNITE" alt="typing animation 18" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Rajdhani&amp;weight=800&amp;size=30&amp;duration=3260&amp;pause=450&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=SOLAR%20CURRENT%3BCYBER%20DREAM%3BMOTION%20FIRST" alt="typing animation 19" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=800&amp;size=30&amp;duration=3480&amp;pause=450&amp;color=F472B6&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=WARP%20SPEED%3BOPEN%20SKY%3BSYSTEM%20BREATHING" alt="typing animation 20" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=ELECTRIC%20COSMOS%3BSYNTH%20FLOW%3BNEXT%20FRAME" alt="typing animation 21" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Space%20Mono&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=FBBF24&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=STARLIGHT%20CODE%3BORBITAL%20TOOLS%3BZERO%20FRICTION" alt="typing animation 22" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Bungee&amp;weight=800&amp;size=30&amp;duration=3040&amp;pause=450&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=COMET%20PATH%3BAI%20FLOW%3BAUTOMATION%20GLOW" alt="typing animation 23" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Monoton&amp;weight=800&amp;size=30&amp;duration=3260&amp;pause=450&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=SATELLITE%20PULSE%3BDEEP%20WORK%3BBRIGHT%20OUTPUT" alt="typing animation 24" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=30&amp;duration=3480&amp;pause=450&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=QUANTUM%20RAIL%3BNEON%20SIGNAL%3BALWAYS%20BUILDING" alt="typing animation 25" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Audiowide&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=METEOR%20MODE%3BFLOW%20STATE%3BKEEP%20SHIPPING" alt="typing animation 26" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Rajdhani&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=DARK%20MATTER%20UI%3BCOSMIC%20SYSTEM%3BTOOLS%20AWAKE" alt="typing animation 27" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=800&amp;size=30&amp;duration=3040&amp;pause=450&amp;color=F472B6&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=NIGHT%20DRIVE%3BVECTOR%20FIELD%3BCREATIVE%20SYSTEM" alt="typing animation 28" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&amp;weight=800&amp;size=30&amp;duration=3260&amp;pause=450&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=EVENT%20HORIZON%3BCODE%20STREAM%3BFUTURE%20INTERFACE" alt="typing animation 29" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Space%20Mono&amp;weight=800&amp;size=30&amp;duration=3480&amp;pause=450&amp;color=FBBF24&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=GALACTIC%20CANVAS%3BMOTION%20STACK%3BSYSTEM%20READY" alt="typing animation 30" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Bungee&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=ASTRO%20SIGNAL%3BAI%20WORKFLOW%3BORBITAL%20DESIGN" alt="typing animation 31" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Monoton&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=STARFORGE%20CORE%3BBUILD%20ENERGY%3BNEON%20FUTURE" alt="typing animation 32" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=30&amp;duration=3040&amp;pause=450&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=LASER%20GRID%3BAUTOMATION%20SYNC%3BIDEA%20ENGINE" alt="typing animation 33" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Audiowide&amp;weight=800&amp;size=30&amp;duration=3260&amp;pause=450&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=SPACE%20TERMINAL%3BPRODUCT%20FLOW%3BSIGNAL%20CLARITY" alt="typing animation 34" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Rajdhani&amp;weight=800&amp;size=30&amp;duration=3480&amp;pause=450&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=MOONLIGHT%20MODE%3BDIGITAL%20RHYTHM%3BBUILDING%20QUIETLY" alt="typing animation 35" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=F472B6&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=NEURAL%20SKY%3BOPEN%20SYSTEM%3BTOOLS%20ONLINE" alt="typing animation 36" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=COSMOS%20RENDER%3BDYNAMIC%20README%3BFULL%20SCREEN" alt="typing animation 37" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Space%20Mono&amp;weight=800&amp;size=30&amp;duration=3040&amp;pause=450&amp;color=FBBF24&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=HORIZON%20SHIFT%3BSPEED%20OF%20THOUGHT%3BCREATIVE%20OUTPUT" alt="typing animation 38" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Bungee&amp;weight=800&amp;size=30&amp;duration=3260&amp;pause=450&amp;color=C084FC&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=PLASMA%20TRAIL%3BCODE%20IGNITION%3BFUTURE%20ACTIVE" alt="typing animation 39" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Monoton&amp;weight=800&amp;size=30&amp;duration=3480&amp;pause=450&amp;color=2DD4BF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=ORBIT%20COMPLETE%3BSIGNAL%20STRONG%3BKEEP%20BUILDING" alt="typing animation 40" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=30&amp;duration=2600&amp;pause=450&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=TECHNO%20LIGHT%3BAI%20PILOT%3BSYSTEM%20GLOW" alt="typing animation 41" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Audiowide&amp;weight=800&amp;size=30&amp;duration=2820&amp;pause=450&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=980&amp;height=126&amp;lines=NOVA%20GATE%3BAUTOMATION%20FIELD%3BMOTION%20WALL" alt="typing animation 42" />
+<!-- sources: LouisLiu00, github-profile-3d-contrib -->
+<p><a href="https://github.com/LouisLiu00"><img width="49%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="animation from LouisLiu00" /></a> <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img width="49%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="animation from github-profile-3d-contrib" /></a></p>
 
 </div>
+
 
