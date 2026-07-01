@@ -31,43 +31,23 @@ Hi, I'm **wintopic**. I enjoy exploring practical technology, building lightweig
 
 </div>
 
-## GitHub Snapshot
+## Live Snapshot
 
-| Metric | Value |
-| --- | ---: |
-| Public repositories | 57 |
-| Original repositories | 35 |
-| Followers | 7 |
-| Total stars | 2 |
-| Total forks | 3 |
+<div align="center">
 
-## Common Languages
+<img src="./assets/profile-dashboard-en.svg" alt="wintopic GitHub live snapshot" width="100%" />
 
-| Language | Repositories |
-| --- | ---: |
-| JavaScript | 7 |
-| CSS | 4 |
-| Python | 4 |
-| HTML | 3 |
-| TypeScript | 3 |
-| Go | 1 |
-| Java | 1 |
+[Lightwell](https://github.com/wintopic/Lightwell) · [Codex-Desktop-Linux](https://github.com/wintopic/Codex-Desktop-Linux) · [ClearMint](https://github.com/wintopic/ClearMint) · [Android-Studio-ZH](https://github.com/wintopic/Android-Studio-ZH) · [gnome-topline](https://github.com/wintopic/gnome-topline)
 
-## Recent Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [Lightwell](https://github.com/wintopic/Lightwell) | A lightweight Android app panel inspired by Lightwell / 隙光 | Java |
-| [Codex-Desktop-Linux](https://github.com/wintopic/Codex-Desktop-Linux) | Automation-only builder for Codex Desktop Linux Debian packages | Automation |
-| [ClearMint](https://github.com/wintopic/ClearMint) | Conservative GTK desktop cleaner for Linux | Python |
-| [Android-Studio-ZH](https://github.com/wintopic/Android-Studio-ZH) | Android Studio Simplified Chinese localization helper | Shell |
-| [gnome-topline](https://github.com/wintopic/gnome-topline) | A compact, modular system status line for the GNOME top bar | JavaScript |
+</div>
 
 ## Current Direction
 
-```text
-Explore  ->  Prototype  ->  Refine  ->  Share
-```
+<div align="center">
+
+<img src="./assets/profile-flow-en.svg" alt="Explore, prototype, refine, share" width="100%" />
+
+</div>
 
 I like projects that make daily work smoother: small automations, clean interfaces, AI-enhanced tools, and learning notes that help the next person move faster.
 
