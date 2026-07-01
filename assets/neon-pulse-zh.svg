@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="190" viewBox="0 0 980 190" role="img" aria-label="动态节奏条">
+  <defs>
+    <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#00FFA3"/>
+      <stop offset="100%" stop-color="#FF3DF2"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="980" height="190" rx="28" fill="#070B18"/>
+  <g opacity=".22" stroke="#7DD3FC">
+    <path d="M0 142H980"/>
+    <path d="M0 96H980"/>
+    <path d="M0 50H980"/>
+  </g>
+  <path d="M70 96 C160 24 250 166 340 96 S520 24 610 96 S790 166 910 72" fill="none" stroke="url(#rail)" stroke-width="5" stroke-linecap="round" filter="url(#soft)" stroke-dasharray="120 780">
+    <animate attributeName="stroke-dashoffset" values="900;0" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif" text-anchor="middle" font-weight="700">
+    <g transform="translate(135 96)">
+      <circle r="22" fill="#00E5FF" opacity=".24"><animate attributeName="r" values="18;30;18" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle r="9" fill="#00E5FF"/>
+      <text y="56" fill="#E0F2FE" font-size="18">灵感</text>
+    </g>
+    <g transform="translate(370 96)">
+      <circle r="22" fill="#00FFA3" opacity=".24"><animate attributeName="r" values="18;30;18" dur="2.2s" begin=".35s" repeatCount="indefinite"/></circle>
+      <circle r="9" fill="#00FFA3"/>
+      <text y="56" fill="#DCFCE7" font-size="18">构建</text>
+    </g>
+    <g transform="translate(610 96)">
+      <circle r="22" fill="#38BDF8" opacity=".24"><animate attributeName="r" values="18;30;18" dur="2.2s" begin=".7s" repeatCount="indefinite"/></circle>
+      <circle r="9" fill="#38BDF8"/>
+      <text y="56" fill="#E0F2FE" font-size="18">进化</text>
+    </g>
+    <g transform="translate(845 96)">
+      <circle r="22" fill="#FF3DF2" opacity=".24"><animate attributeName="r" values="18;30;18" dur="2.2s" begin="1.05s" repeatCount="indefinite"/></circle>
+      <circle r="9" fill="#FF3DF2"/>
+      <text y="56" fill="#FAE8FF" font-size="18">表达</text>
+    </g>
+  </g>
+  <circle r="7" fill="#FFFFFF" filter="url(#soft)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M70 96 C160 24 250 166 340 96 S520 24 610 96 S790 166 910 72"/>
+  </circle>
+</svg>
