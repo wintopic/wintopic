@@ -6,9 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00A6A6&center=true&vCenter=true&width=760&lines=AI+%2B+Automation+Explorer;Open-source+learner+and+builder;Turning+ideas+into+useful+projects)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=wintopic&style=flat-square&color=00a6a6)](https://github.com/wintopic)
-[![GitHub Followers](https://img.shields.io/github/followers/wintopic?style=flat-square&logo=github&color=4E4376)](https://github.com/wintopic?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wintopic?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&color=2B5876)](https://github.com/wintopic?tab=repositories)
+<a href="https://github.com/wintopic">Profile</a>
+·
+<a href="https://github.com/wintopic?tab=repositories">Projects</a>
+·
+<a href="https://github.com/wintopic?tab=followers">Followers</a>
 
 </div>
 
@@ -31,16 +33,35 @@ Hi, I'm **wintopic**. I enjoy exploring practical technology, building lightweig
 
 ## GitHub Snapshot
 
-<div align="center">
+| Metric | Value |
+| --- | ---: |
+| Public repositories | 57 |
+| Original repositories | 35 |
+| Followers | 7 |
+| Total stars | 2 |
+| Total forks | 3 |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wintopic&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="wintopic GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintopic&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="wintopic top languages" />
+## Common Languages
 
-<br />
+| Language | Repositories |
+| --- | ---: |
+| JavaScript | 7 |
+| CSS | 4 |
+| Python | 4 |
+| HTML | 3 |
+| TypeScript | 3 |
+| Go | 1 |
+| Java | 1 |
 
-<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=wintopic&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="wintopic contribution activity graph" />
+## Recent Projects
 
-</div>
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Lightwell](https://github.com/wintopic/Lightwell) | A lightweight Android app panel inspired by Lightwell / 隙光 | Java |
+| [Codex-Desktop-Linux](https://github.com/wintopic/Codex-Desktop-Linux) | Automation-only builder for Codex Desktop Linux Debian packages | Automation |
+| [ClearMint](https://github.com/wintopic/ClearMint) | Conservative GTK desktop cleaner for Linux | Python |
+| [Android-Studio-ZH](https://github.com/wintopic/Android-Studio-ZH) | Android Studio Simplified Chinese localization helper | Shell |
+| [gnome-topline](https://github.com/wintopic/gnome-topline) | A compact, modular system status line for the GNOME top bar | JavaScript |
 
 ## Current Direction
 
