@@ -31,43 +31,23 @@
 
 </div>
 
-## GitHub 数据概览
+## 动态概览
 
-| 指标 | 数值 |
-| --- | ---: |
-| 公开仓库 | 57 |
-| 原创仓库 | 35 |
-| 关注者 | 7 |
-| 累计星标 | 2 |
-| 累计 Fork | 3 |
+<div align="center">
 
-## 常用语言
+<img src="./assets/profile-dashboard-zh.svg" alt="wintopic 的 GitHub 动态概览" width="100%" />
 
-| 语言 | 仓库数 |
-| --- | ---: |
-| JavaScript | 7 |
-| CSS | 4 |
-| Python | 4 |
-| HTML | 3 |
-| TypeScript | 3 |
-| Go | 1 |
-| Java | 1 |
+[Lightwell](https://github.com/wintopic/Lightwell) · [Codex-Desktop-Linux](https://github.com/wintopic/Codex-Desktop-Linux) · [ClearMint](https://github.com/wintopic/ClearMint) · [Android-Studio-ZH](https://github.com/wintopic/Android-Studio-ZH) · [gnome-topline](https://github.com/wintopic/gnome-topline)
 
-## 近期项目
-
-| 项目 | 简介 | 技术 |
-| --- | --- | --- |
-| [Lightwell](https://github.com/wintopic/Lightwell) | 轻量 Android 应用面板，灵感来自 Lightwell / 隙光 | Java |
-| [Codex-Desktop-Linux](https://github.com/wintopic/Codex-Desktop-Linux) | Codex Desktop Linux Debian 包自动化构建 | 自动化 |
-| [ClearMint](https://github.com/wintopic/ClearMint) | 保守、干净的 GTK 桌面清理工具 | Python |
-| [Android-Studio-ZH](https://github.com/wintopic/Android-Studio-ZH) | Android Studio 简体中文本地化辅助工具 | Shell |
-| [gnome-topline](https://github.com/wintopic/gnome-topline) | GNOME 顶栏模块化系统状态栏 | JavaScript |
+</div>
 
 ## 当前方向
 
-```text
-探索  ->  原型  ->  打磨  ->  分享
-```
+<div align="center">
+
+<img src="./assets/profile-flow-zh.svg" alt="探索、原型、打磨、分享" width="100%" />
+
+</div>
 
 我更偏爱能让日常工作更顺手的项目：小型自动化、干净的界面、AI 增强工具，以及能帮助后来者更快上手的学习记录。
 
