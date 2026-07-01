@@ -1,54 +1,56 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2B5876,50:4E4376,100:00A6A6&text=Hi,%20I'm%20wintopic&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=48&desc=Building,%20learning,%20and%20shipping%20useful%20things.&descAlign=50&descAlignY=58&descSize=16)
+[简体中文](./README.md) | [English](./README.en.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00A6A6&center=true&vCenter=true&width=720&lines=AI+%2B+Automation+Explorer;Open-source+learner+and+builder;Turning+ideas+into+working+projects)](https://git.io/typing-svg)
+![主页横幅](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2B5876,50:4E4376,100:00A6A6&text=wintopic&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=54&desc=%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E5%8F%AF%E8%BF%90%E8%A1%8C%E7%9A%84%E4%BD%9C%E5%93%81&descAlign=50&descAlignY=58&descSize=16)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=wintopic&style=flat-square&color=00a6a6)](https://github.com/wintopic)
-[![GitHub Followers](https://img.shields.io/github/followers/wintopic?style=flat-square&logo=github&color=4E4376)](https://github.com/wintopic?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wintopic?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&color=2B5876)](https://github.com/wintopic?tab=repositories)
+[![动态标语](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00A6A6&center=true&vCenter=true&width=760&lines=AI+%2B+%E8%87%AA%E5%8A%A8%E5%8C%96%E6%8E%A2%E7%B4%A2%E8%80%85;%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%80%85%E5%92%8C%E5%88%9B%E4%BD%9C%E8%80%85;%E6%8A%8A%E7%81%B5%E6%84%9F%E5%81%9A%E6%88%90%E7%9C%9F%E6%AD%A3%E8%83%BD%E7%94%A8%E7%9A%84%E9%A1%B9%E7%9B%AE)](https://git.io/typing-svg)
 
-</div>
-
-## About Me
-
-Hi, I'm **wintopic**. I enjoy exploring practical technology, building small but useful tools, and turning scattered ideas into projects that can actually run.
-
-- Focusing on AI-assisted workflows, automation, and full-stack experiments.
-- Keeping projects lightweight, readable, and easy to iterate.
-- Learning in public through code, notes, and reusable demos.
-- Open to interesting ideas, collaboration, and thoughtful technical conversations.
-
-## Tech Toolbox
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,vue,nodejs,fastapi,flask,mysql,sqlite,docker,git,github,vscode&perline=8)](https://skillicons.dev)
+[![主页访问量](https://komarev.com/ghpvc/?username=wintopic&style=flat-square&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=00a6a6)](https://github.com/wintopic)
+[![关注者](https://img.shields.io/github/followers/wintopic?style=flat-square&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&color=4E4376)](https://github.com/wintopic?tab=followers)
+[![星标](https://img.shields.io/github/stars/wintopic?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=%E6%98%9F%E6%A0%87&color=2B5876)](https://github.com/wintopic?tab=repositories)
 
 </div>
 
-## GitHub Snapshot
+## 关于我
+
+你好，我是 **wintopic**。我喜欢探索实用技术，做轻量但有用的工具，把零散想法整理成真正可以运行、可以复用的项目。
+
+- 关注 AI 辅助工作流、自动化工具和全栈实验。
+- 喜欢清晰、轻量、易迭代的项目结构。
+- 通过代码、笔记和 Demo 持续学习与公开沉淀。
+- 欢迎有趣的想法、协作机会和真诚的技术交流。
+
+## 技术工具箱
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wintopic&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="wintopic GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintopic&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="wintopic top languages" />
+[![技术栈](https://skillicons.dev/icons?i=python,js,ts,html,css,react,vue,nodejs,fastapi,flask,mysql,sqlite,docker,git,github,vscode&perline=8)](https://skillicons.dev)
+
+</div>
+
+## GitHub 数据概览
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wintopic&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&locale=cn" alt="wintopic 的 GitHub 数据" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintopic&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&locale=cn" alt="wintopic 的常用语言" />
 
 <br />
 
-<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=wintopic&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="wintopic contribution activity graph" />
+<img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=wintopic&theme=tokyo-night&hide_border=true&area=true&custom_title=%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8" alt="wintopic 的贡献活动图" />
 
 </div>
 
-## Current Direction
+## 当前方向
 
 ```text
-Explore  ->  Prototype  ->  Refine  ->  Share
+探索  ->  原型  ->  打磨  ->  分享
 ```
 
-I like projects that make daily work smoother: small automations, clean interfaces, AI-enhanced tools, and learning notes that can help the next person move faster.
+我更偏爱能让日常工作更顺手的项目：小型自动化、干净的界面、AI 增强工具，以及能帮助后来者更快上手的学习记录。
 
-## Find Me
+## 找到我
 
 <div align="center">
 
@@ -58,6 +60,6 @@ I like projects that make daily work smoother: small automations, clean interfac
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00A6A6,50:4E4376,100:2B5876)
+![页脚](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00A6A6,50:4E4376,100:2B5876)
 
 </div>
