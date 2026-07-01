@@ -13,6 +13,12 @@
   <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" />
 </picture>
 
+<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D git block animation" />
+
+<img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="animated 3D season view" />
+
+<img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="animated 3D green view" />
+
 <img width="100%" src="./dist/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 
 <img width="100%" src="./dist/ocean.gif" alt="ocean neon contribution animation" />
